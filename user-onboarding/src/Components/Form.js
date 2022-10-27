@@ -60,7 +60,7 @@ const Form = (props) => {
                     />
                 </label>
 
-                    <input type="submit" value="Create a Friend!" />
+                    <button id='submitBtn' type="submit" value="Create a Friend!">Create a Friend!</button>
                 
             </form>
         </div>
